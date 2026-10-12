@@ -35,7 +35,7 @@
 
 ## デモ・スクリーンショット
 
-- **デモ URL**※コールドスタート：[https://oshi-app-1.onrender.com](https://oshi-app-1.onrender.com)
+- **デモ URL**※フレームワーク着せ替えと一緒に変更したため、現在無し
 
 ### スクリーンショット
 
